@@ -1,0 +1,15 @@
+{
+  "name": "korvai",
+  "description": "Curated, reusable skills for knowledge work from Korvai.",
+  "owner": {
+    "name": "Korvai",
+    "url": "https://www.korvai.com"
+  },
+  "plugins": [
+    {
+      "name": "korvai",
+      "source": "./",
+      "description": "Curated, reusable skills for knowledge work — PRDs, briefs, reviews, and more. Built with Korvai."
+    }
+  ]
+}
