@@ -1,12 +1,17 @@
 {
   "$schema": "https://cdn.jsdelivr.net/gh/anthropics/claude-code@main/plugin.schema.json",
   "name": "korvai",
-  "description": "Curated, reusable skills for knowledge work.",
+  "description": "Curated, reusable skills for knowledge work (16 skills).",
   "version": "0.1.0",
   "author": {
     "name": "Korvai",
     "url": "https://www.korvai.com"
   },
   "homepage": "https://www.korvai.com",
-  "keywords": ["skills", "productivity", "sop", "knowledge-work"]
+  "keywords": [
+    "skills",
+    "productivity",
+    "sop",
+    "knowledge-work"
+  ]
 }
